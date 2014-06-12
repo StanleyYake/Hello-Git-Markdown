@@ -15,7 +15,7 @@ When you create a branch, you’re making a copy of the original branch as it wa
 ####井号为大标题，一个、两个、三个等等（最多6个）
 
 
-#####代码段开头4个空格
+#####单行代码开头4个空格
 
     printf("Hello Yake!");
    
@@ -43,6 +43,11 @@ In the words of Abraham Lincoln:
 
 -
 #####**编号1（加、减或星号）**
+
+ol { list-style-type: upper-alpha; }
+
+/* or use the shortcut "list-style": */
+ol { list-style: upper-alpha; }
 
 * 你
 + 还
