@@ -35,13 +35,13 @@ int main(){
 In the words of Abraham Lincoln:
 > Pardon my french
 
-
+-
 #####**粗体字**
 **This text will be bold** 粗体（放在****之间）
 
 *This text will be italic* 斜体(放在**之间)
 
-
+-
 #####**编号1（加、减或星号）**
 
 * 你
