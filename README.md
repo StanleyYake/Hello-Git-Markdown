@@ -106,3 +106,4 @@ In the words of Abraham Lincoln:
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
 
+[<i class="icon-weibo"></i>] (http://weibo.com/u/1714074267/home?topnav=1&wvr=5)
