@@ -42,6 +42,13 @@ In the words of Abraham Lincoln:
   <li>third item</li>
 </ol>
 
+1. Item 1
+2. Item 2
+3. Item 3
+
+
+1.我
+
 
 #####**编号2（从7开始）**
 <ol start="7">
