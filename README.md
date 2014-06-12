@@ -12,13 +12,9 @@ When you create a branch, you’re making a copy of the original branch as it wa
 
 #####代码段开头4个空格
 
-    int main(){
     printf("Hello Yake!");
-    return 0;
-    }
+   
   
-  
-    
 ``` 
 int main(){
  printf("Hello Yake!");
