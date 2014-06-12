@@ -1,6 +1,6 @@
 hello-world
 ===========
-(https://help.github.com/articles/markdown-basics)
+[格式帮助]（https://help.github.com/articles/markdown-basics）
 
 just a repository (project)
 
@@ -39,7 +39,9 @@ In the words of Abraham Lincoln:
 #####**编号1（杠或星号）**
 
 >-我
+
 >-你
+
 >-他
 
 
