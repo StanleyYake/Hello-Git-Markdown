@@ -49,25 +49,25 @@ In the words of Abraham Lincoln:
 + 好
 + 吗
 
---
+-
 1. Item 1
 2. Item 2
 3. Item 3
 
---
+-
 * Item 1
 * Item 2
   * Item 2a
   * Item 2b
 
---
+-
 1. Item 1
 2. Item 2
 3. Item 3
    * Item 3a
    * Item 3b
 
---
+-
 
 <ol>
   <li>first item</li>
@@ -81,14 +81,14 @@ In the words of Abraham Lincoln:
   <li>third item</li>
 </ol>
 
-
+-
 #####**编号2（从7开始）**
 <ol start="7">
   <li>first item</li>
   <li>second item</li>
   <lI>third item</li>
 </ol>
-
+-
 ~~Mistaken text.~~
 
 
