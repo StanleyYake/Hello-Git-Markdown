@@ -18,7 +18,7 @@ When you create a branch, you’re making a copy of the original branch as it wa
 
     printf("Hello Yake!");
    
-Here's an idea: why don't we take `SuperiorProject` and turn it into `**Reasonable**Project`.
+Here's an idea: why don't we take `SuperiorProject` and turn it into `**Reasonable**Project`.单``中
  
 ##### 代码段放在```中（1旁边的那个键）
 ```c 
