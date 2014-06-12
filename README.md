@@ -13,19 +13,19 @@ When you create a branch, you’re making a copy of the original branch as it wa
     }
     
     
-######引用名言冒号,下一行用>号
+######**引用名言冒号,下一行用>号**
 In the words of Abraham Lincoln:
 
 > Pardon my french
 
 
-######粗体字
+######**粗体字**
 **This text will be bold**粗体（放在****之间）
 
 *This text will be italic*斜体(放在**之间)
 
 
-######编号1
+######**编号1**
 <ol>
   <li>first item</li>
   <li>second item      <!-- Look, the closing </li> tag is not placed here! -->
@@ -38,7 +38,7 @@ In the words of Abraham Lincoln:
   <li>third item</li>
 </ol>
 
-######编号2
+######**编号2**
 <ol start="7">
   <li>first item</li>
   <li>second item</li>
