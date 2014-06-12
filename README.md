@@ -75,7 +75,7 @@ ol { list-style: upper-alpha; }
 -
 
 <ol>
-  <li>first item</li>
+  <li:A>first item</li:A>
   <li>second item      <!-- Look, the closing </li> tag is not placed here! -->
     <ul>
       <li>second item first subitem</li>
