@@ -16,13 +16,13 @@ When you create a branch, you’re making a copy of the original branch as it wa
 ######井号为大标题，一个、两个、三个等等（最多6个）
 
 
-In the words of Abraham Lincoln:
+In the words of Abraham Lincoln:（引用名言冒号,下一行用>号）
 
 > Pardon my french
 
-*This text will be italic*斜体
+**This text will be bold**粗体（放在****之间）
 
-**This text will be bold**粗体
+*This text will be italic*斜体(放在**之间)
 
 引用
 * SHA: a5c3785ed8d6a35868bc169f07e40e889087fd2e
