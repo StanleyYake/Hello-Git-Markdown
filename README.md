@@ -1,6 +1,6 @@
 hello-world
 ===========
-[格式帮助](https://help.github.com/articles/markdown-basics)
+[格式编辑器](https://www.zybuluo.com/mdeditor)
 
 [markdown-basics](https://help.github.com/articles/markdown-basics)
 
