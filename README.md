@@ -87,8 +87,6 @@ In the words of Abraham Lincoln:
 - [ ] a separate task
 
 
-[TOC]
-
 
 引用
 * SHA: a5c3785ed8d6a35868bc169f07e40e889087fd2e
@@ -106,4 +104,3 @@ In the words of Abraham Lincoln:
 | col 2 is      | centered        |   $12 |
 | zebra stripes | are neat        |    $1 |
 
-[<i class="icon-weibo"></i>](http://weibo.com/u/1714074267/)
