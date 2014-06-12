@@ -36,7 +36,17 @@ In the words of Abraham Lincoln:
 *This text will be italic*斜体(放在**之间)
 
 
-#####**编号1**
+#####**编号1（杠或星号）**
+-我
+-你
+-他
+
+
+1. Item 1
+2. Item 2
+3. Item 3
+
+
 <ol>
   <li>first item</li>
   <li>second item      <!-- Look, the closing </li> tag is not placed here! -->
@@ -49,14 +59,6 @@ In the words of Abraham Lincoln:
   <li>third item</li>
 </ol>
 
-1. Item 1
-2. Item 2
-3. Item 3
-
-1.我
-2.你
-3.他
-
 
 #####**编号2（从7开始）**
 <ol start="7">
@@ -64,8 +66,6 @@ In the words of Abraham Lincoln:
   <li>second item</li>
   <lI>third item</li>
 </ol>
-
-
 
 
 #####任务进度    
