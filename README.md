@@ -73,8 +73,8 @@ ol { list-style: upper-alpha; }
 3. Item 3
    * Item 3a
    * Item 3b
+编号参考(https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
 
--
 
 <ol>
   <li>first item</li:A>
@@ -109,7 +109,7 @@ ol { list-style: upper-alpha; }
 
 
 
-引用
+#####引用
 * SHA: a5c3785ed8d6a35868bc169f07e40e889087fd2e
 * User@SHA: jlord@a5c3785ed8d6a35868bc169f07e40e889087fd2e
 * User/Repository@SHA: jlord/sheetsee.js@a5c3785ed8d6a35868bc169f07e40e889087fd2e
@@ -118,7 +118,7 @@ ol { list-style: upper-alpha; }
 * User/Repository#Num: jlord/sheetsee.js#26 
 
 
-
+#####制作表格
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
 | col 3 is      | some wordy text | $1600 |
