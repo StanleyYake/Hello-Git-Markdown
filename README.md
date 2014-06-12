@@ -14,13 +14,15 @@ When you create a branch, you’re making a copy of the original branch as it wa
 
     int main(){
     printf("Hello Yake!");
+    return 0;
     }
   
   
     
 ``` 
-   int main(){
-    printf("Hello Yake!");
+int main(){
+ printf("Hello Yake!");
+ return 0;
     }
 ```
 
