@@ -68,6 +68,9 @@ In the words of Abraham Lincoln:
   <lI>third item</li>
 </ol>
 
+~~Mistaken text.~~
+
+
 
 #####任务进度    
 - [ ] a bigger project先是杠空格，然后方括号
