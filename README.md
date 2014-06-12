@@ -46,7 +46,7 @@ In the words of Abraham Lincoln:
 
 * 你
 + 还
-_好
+- 好
 * 吗
 
 
