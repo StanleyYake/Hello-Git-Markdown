@@ -8,15 +8,22 @@ When you create a branch, you’re making a copy of the original branch as it wa
 
 ######井号为大标题，一个、两个、三个等等（最多6个）
 
+    int main(){
+    printf("Hello Yake!");
+    }
+    
+    
 ######引用名言冒号,下一行用>号
 In the words of Abraham Lincoln:
 
 > Pardon my french
 
+
 ######粗体字
 **This text will be bold**粗体（放在****之间）
 
 *This text will be italic*斜体(放在**之间)
+
 
 ######编号1
 <ol>
@@ -38,10 +45,6 @@ In the words of Abraham Lincoln:
   <lI>third item</li>
 </ol>
 
-    int main(){
-    printf("Hello Yake!");
-    }
-    
     
 - [ ] a bigger project先是杠空格，然后方括号
   - [x] first subtask #1234 learning basic markdown完成了的方括号里放x
