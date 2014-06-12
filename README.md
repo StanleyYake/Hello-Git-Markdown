@@ -14,7 +14,8 @@ When you create a branch, you’re making a copy of the original branch as it wa
 
     printf("Hello Yake!");
    
-  
+ 
+##### 代码段放在```中（1旁边的那个键）
 ``` 
 int main(){
  printf("Hello Yake!");
