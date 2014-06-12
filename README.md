@@ -23,9 +23,9 @@ Here's an idea: why don't we take `SuperiorProject` and turn it into `**Reasonab
 ##### 代码段放在```中（1旁边的那个键）
 ```c 
 int main(){
- printf("Hello Yake!");
- return 0;
-    }
+    printf("Hello Yake!");
+    return 0;
+  }
 ```
 
 
