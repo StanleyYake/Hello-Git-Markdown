@@ -13,12 +13,12 @@ When you create a branch, you’re making a copy of the original branch as it wa
 
 #####井号为大标题，一个、两个、三个等等（最多6个）
 
-Here's an idea: why don't we take `SuperiorProject` and turn it into `**Reasonable**Project`.
 
 #####代码段开头4个空格
 
     printf("Hello Yake!");
    
+Here's an idea: why don't we take `SuperiorProject` and turn it into `**Reasonable**Project`.
  
 ##### 代码段放在```中（1旁边的那个键）
 ```c 
