@@ -8,7 +8,14 @@ When you create a branch, you’re making a copy of the original branch as it wa
 
 
 - [ ] a bigger project
-  - [ ] first subtask #1234
+  - [x] first subtask #1234 learning basic markdown
   - [ ] follow up subtask #4321
   - [ ] final subtask cc @mention
 - [ ] a separate task
+
+######井号为大标题，一个、两个、三个等等（最多6个）
+
+
+In the words of Abraham Lincoln:
+
+> Pardon my french
