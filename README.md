@@ -73,7 +73,6 @@ ol { list-style: upper-alpha; }
 3. Item 3
    * Item 3a
    * Item 3b
-编号参考(https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
 
 
 <ol>
@@ -95,7 +94,10 @@ ol { list-style: upper-alpha; }
   <li>second item</li>
   <lI>third item</li>
 </ol>
--
+
+编号参考(https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
+
+
 ~~Mistaken text.~~
 
 
