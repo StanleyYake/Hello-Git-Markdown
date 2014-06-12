@@ -19,3 +19,6 @@ When you create a branch, you’re making a copy of the original branch as it wa
 In the words of Abraham Lincoln:
 
 > Pardon my french
+
+*This text will be italic*粗体
+**This text will be bold**斜体
