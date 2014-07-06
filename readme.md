@@ -11,4 +11,11 @@ $ git add readme.txt
 $ git commit -m "wrote a readme file"
 '''
 
-###
+###删除文件
+'''
+$ rm test.txt
+$ git rm test.txt
+$ git commit -m "remove test.txt"
+
+    $ git checkout -- test.txt
+'''
