@@ -12,6 +12,7 @@ $ git commit -m "wrote a readme file"
 ```
 
 $ git remote add origin git@github.com:StanleyYake/learngit.git
+
 $ git push -u origin master第一次
 
 $ git push origin master此后都可以用这句
