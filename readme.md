@@ -15,7 +15,7 @@ $ git commit -m "wrote a readme file"
 ```
 $ rm test.txt
 $ git rm test.txt
-$ git commit -m "remove test.txt"
+$ git commit -m "remove test.txt" 
 
-    $ git checkout -- test.txt
+    $ git checkout -- test.txt 撤销
 ```
