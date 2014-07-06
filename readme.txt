@@ -1,4 +1,3 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks change of files.
+	1.link a remote repository at the first time,type:git remote add origin git@server-name:path/repo-name.git
+	2.after linked,git push -u origin master to push your master and the branch content.
+	3.when you modified some file at the local,use git push origin master to apply the change.
