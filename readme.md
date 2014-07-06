@@ -33,7 +33,8 @@ $ git branch
 $ git add readme.txt 
 $ git commit -m "branch changed"
 $ git checkout master
-$ git merge dev  合并某分支到当前
+$ git merge dev  合并某分支到当前$ git merge --no-ff -m "merge with no-ff" dev会留下合并历史no “Fast forward”
+$ git log --graph --pretty=oneline --abbrev-commit
 $ git branch -d dev
 $ git branch
 ```
