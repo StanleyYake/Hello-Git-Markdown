@@ -26,3 +26,14 @@ $ git commit -m "remove test.txt"
 
     $ git checkout -- test.txt 撤销
 ```
+###分支创建与合并
+```
+$ git checkout -b dev创建并转到，相当于$ git branch dev和$ git checkout dev
+$ git branch
+$ git add readme.txt 
+$ git commit -m "branch changed"
+$ git checkout master
+$ git merge dev  合并某分支到当前
+$ git branch -d dev
+$ git branch
+```
