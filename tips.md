@@ -26,6 +26,13 @@ $ git commit -m "remove test.txt"
 
     $ git checkout -- test.txt 撤销
 ```
+###版本回退
+```
+$ git log --pretty=oneline
+$ git reset --hard 3628164
+$ git reflog
+
+```
 ###分支创建与合并
 ```
 $ git checkout -b dev创建并转到，相当于$ git branch dev和$ git checkout dev
