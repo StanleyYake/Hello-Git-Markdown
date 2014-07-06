@@ -33,6 +33,14 @@ $ git reset --hard 3628164
 $ git reflog
 
 ```
+###撤销修改
+```
+$ git checkout -- readme.txt
+
+$ git reset HEAD readme.txt
+$ git checkout -- readme.txt
+
+```
 ###分支创建与合并
 ```
 $ git checkout -b dev创建并转到，相当于$ git branch dev和$ git checkout dev
