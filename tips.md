@@ -17,10 +17,14 @@ $ git remote add origin git@github.com:StanleyYake/learngit.git
 $ git push -u origin master第一次
 
 $ git push origin master此后都可以用这句
+
 **注意**
 > 这里的origin是指的remote branch 的默认名字
+
 > 等于git push origin master：master
+
 > 更一般的 git push origin master：/src/hello
+
 > 它表示在local 寻找名为master的branch，用它去更新remote下名为hello的branch.
 
 ###删除文件
