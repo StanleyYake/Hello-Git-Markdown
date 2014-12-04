@@ -12,3 +12,7 @@
 > 6. git add hello.c 
 
 > 7. git commit -m ¡°v1.00.1£ºadd hello.c¡±
+
+           o-----
+          /      \
+> ---o---o--------o-----
